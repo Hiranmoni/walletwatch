@@ -10,7 +10,7 @@ const Footer = () => {
         </div>
 
         <p className="mt-4 text-center text-sm text-gray-500 lg:mt-0 lg:text-right">
-          IT 'A' Level Project | Hiranmoni Baruah
+          IT &lsquo;A&rsquo; Level Project | Hiranmoni Baruah
         </p>
       </div>
       <div className="md:hidden">
